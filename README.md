@@ -1,0 +1,1 @@
+An IE6 crash simulator.
